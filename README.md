@@ -1,6 +1,6 @@
 ## Hello there!
 
-My name is David and I'm an aspiring data scientist with a background in journalism. I live in Salzburg, Austria, study for a master's in Data Science and currently work at an IT company. You can find me on my [personal website](https://www.davidhanny.at/) or on [LinkedIn]([2]).
+My name is David and I'm an aspiring data scientist with a background in journalism. I live in Salzburg, Austria, study for a master's in Data Science and currently work as a developer / junior data scientist. You can find me on my [personal website](https://www.davidhanny.at/) or on [LinkedIn]([2]).
 
 I'm particularly interested in the intersection of journalism and technology and would be more than happy to launch some journalistic data and machine learning projects in the future.
 
