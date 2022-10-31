@@ -1,6 +1,6 @@
 ## Hello there!
 
-My name is David and I'm an aspiring data scientist with a background in journalism. I'm currently pursueing a master's in Data Science at the University of Salzburg and work as a data science consultant. You can find me on my [personal website](https://www.davidhanny.at/) or on [LinkedIn]([2]).
+My name is David and I'm an aspiring data scientist with a background in journalism. I'm currently pursuing a master's in Data Science at the University of Salzburg and work as a data science consultant. You can find me on my [personal website](https://www.davidhanny.at/) or on [LinkedIn]([2]).
 
 I'm particularly interested in the intersection of journalism and technology, data science and creativity, data visualization, digital privacy and algorithm theory.
 
