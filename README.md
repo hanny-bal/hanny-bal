@@ -1,6 +1,6 @@
 ## Hello there!
 
-My name is David and I'm a data scientist working in geoinformatics research. You can find me on my [personal website](https://www.davidhanny.at/) or on [LinkedIn](https://www.linkedin.com/in/davidhanny).
+My name is David and I'm a data scientist working in geoinformatics research. You can find me on my [personal website](https://www.hanny.dev/) or on [LinkedIn](https://www.linkedin.com/in/davidhanny).
 
 I'm particularly interested in the intersection of media and technology, data science and machine learning, data visualization, digital privacy, and algorithm theory.
 
