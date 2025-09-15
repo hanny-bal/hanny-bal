@@ -9,7 +9,7 @@ For concrete insights into my research, please check my [Google Scholar](https:/
 
 - 🤖 **Spatially explicit AI**: A lot of classic Artificial Intelligence (AI) methods, including most foundation models, fall short in their understanding of geographic space. But to truly understand geographic data, effects like spatial dependence have to be considered from the beginning. My professional work, therefore, heavily focuses on how we can effectively integrate spatial knowledge into AI.
 
-- 🌍 **Geo-social media analysis:**: Social media has vastly changed how we communicate, and a large portion of it is geo-referenced. In the past years, I have developed platform-compliant, ethical crawlers for various platforms like X, Bluesky or TikTok. I am also actively developing methods for their analysis in various social sensing contexts. Using machine learning, natural language processing, and spatially explicit AI, I extract valuable insights from massive datasets for my research work at IT:U and beyond.
+- 🌍 **Geo-social media analysis:** Social media has vastly changed how we communicate, and a large portion of it is geo-referenced. In the past years, I have developed platform-compliant, ethical crawlers for various platforms like X, Bluesky or TikTok. I am also actively developing methods for their analysis in various social sensing contexts. Using machine learning, natural language processing, and spatially explicit AI, I extract valuable insights from massive datasets for my research work at IT:U and beyond.
 
 ### Personal 🙌
 Talk to me about:
